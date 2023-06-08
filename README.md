@@ -1,25 +1,83 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png" width=200>
-    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png" width=200>
-    <img alt="Memoji" src="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png" width=100>
-  </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/while-is-alex/while-is-alex/main/MEMOJI.png" width=200>
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/while-is-alex/while-is-alex/main/MEMOJI.png" width=200>
+        <img alt="Memoji" src="https://raw.githubusercontent.com/while-is-alex/while-is-alex/main/MEMOJI.png" width=100>
+    </picture>
 </p>
 
 <h1 align="center"> Hello there, I'm Alex </h1>
-<h3 align="center"> I'm a former languages teacher (Portuguese, English, French, Spanish and Italian), linguistics bachelor turned self-taught Python developer.</h2>
+<h3 align="center"> I'm a former languages teacher (Portuguese, English, French, Spanish and Italian), linguistics bachelor turned into a self-taught Python developer.</h3>
 
-<!--
-**while-is-alex/while-is-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me</h2>
+<ul>
+    <li>I'm a dedicated Python developer who enjoys expanding my knowledge and skills in this field every day.</li>
+    <li>I'm actively seeking job opportunities and freelance projects to further advance my expertise and contribute to exciting projects.</li>
+    <li>I'm also passionate about learning new languages and learning about other cultures, which is one of my main interests and ongoing learning journeys.</li>
+    <li>As a lifelong learner, I'm always eager to acquire new knowledge and improve myself daily.</li>
+    <li>I have a background in linguistics and literature and enjoy combining my interests in these topics with coding whenever possible.</li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>Main projects</h2>
+<ul>
+    <li>Typing speed test</li><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=typing-speed-test"><br><br>
+    <li>Breakout game</li><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=breakout"><br>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Languages and tools</h2>
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Flask</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>SQLAlchemy</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Pandas</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Selenium</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Numpy</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
