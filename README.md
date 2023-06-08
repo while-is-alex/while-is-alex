@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png">
-    <img alt="Memoji" src="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png" width=200>
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png" width=200>
+    <img alt="Memoji" src="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png" width=100>
   </picture>
 </p>
 
