@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png">
+    <img alt="Memoji" src="https://i.ibb.co/m9xGzqD/0031-C3-EA-5-C32-40-F6-A605-2-E58-A4-D9-F7-F4.png">
+  </picture>
+</p>
+
+<h1 align="center"> Hello there, I'm Alex </h1>
+<h3 align="center"> I'm a former languages teacher (Portuguese, English, French, Spanish and Italian), linguistics bachelor turned self-taught Python developer.</h2>
 
 <!--
 **while-is-alex/while-is-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
