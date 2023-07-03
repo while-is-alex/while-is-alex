@@ -18,6 +18,13 @@
     <li>I have a background in linguistics and literature and enjoy combining my interests in these topics with coding whenever possible.</li>
 </ul>
 
+<h2>Currently learning</h2>
+<ul>
+    <li>Django</li>
+    <li>Docker</li>
+    <li>Kubernetes</li>
+</ul>
+
 <h2>Main projects</h2>
 <ul>
     <li>Task Manager</li><br>
