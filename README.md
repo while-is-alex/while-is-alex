@@ -25,14 +25,6 @@
     <li>Kubernetes</li>
 </ul>
 
-<h2>Main projects</h2>
-<ul>
-    <li>Task Manager</li><br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=task-manager"><br><br>
-    <li>Breakout game</li><br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=breakout"><br>
-</ul>
-
 <h2>Languages and tools</h2>
 <table width="320px">
     <tbody>
@@ -88,3 +80,11 @@
         </tr>
     </tbody>
 </table>
+
+<h2>Main projects</h2>
+<ul>
+    <li>Task Manager</li><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=task-manager"><br><br>
+    <li>Breakout game</li><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=breakout"><br>
+</ul>
