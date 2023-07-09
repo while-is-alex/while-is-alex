@@ -104,5 +104,5 @@
     <li>Task Manager</li><br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=task-manager"><br><br>
     <li>Breakout game</li><br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=breakout"><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=django-blog"><br>
 </ul>
