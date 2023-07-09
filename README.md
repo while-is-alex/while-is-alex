@@ -34,16 +34,34 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
             <td width="80px" align="center">
+            <span><strong>Django</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">          
+            </td>
+            <td width="80px" align="center">
             <span><strong>Flask</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>SQLAlchemy</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
-            </td>
-            <td width="80px" align="center">
             <span><strong>Pandas</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>SQLite</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>MySQL</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>PostgreSQL</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>SQLAlchemy</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
             </td>
         </tr>
         <tr valign="top">
