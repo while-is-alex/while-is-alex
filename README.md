@@ -20,9 +20,9 @@
 
 <h2>Currently learning</h2>
 <ul>
-    <li>Django</li>
     <li>Docker</li>
     <li>Kubernetes</li>
+    <li>AWS</li>
 </ul>
 
 <h2>Languages and tools</h2>
