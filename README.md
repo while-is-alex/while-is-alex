@@ -103,6 +103,6 @@
 <ul>
     <li>Task Manager</li><br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=task-manager"><br><br>
-    <li>Django Blog</li><br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=django-blog"><br>
+    <li>Flask Blog</li><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=flask-blog"><br>
 </ul>
