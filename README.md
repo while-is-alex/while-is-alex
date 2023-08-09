@@ -26,77 +26,71 @@
 </ul>
 
 <h2>Languages and tools</h2>
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Django</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">          
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Flask</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Pandas</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>SQLite</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>MySQL</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>PostgreSQL</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>SQLAlchemy</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Bootstrap</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Selenium</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Numpy</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-            </td>
-        </tr>
-    </tbody>
+<table>
+    <tr>
+        <td>
+            <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django" alt="Django"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" alt="Flask"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Jinja-black?style=flat-square&logo=Jinja" alt="Jinja"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" alt="Bootstrap"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" alt="Windows"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL" alt="PostgreSQL"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite" alt="SQLite"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=SQLAlchemy" alt="SQLAlchemy"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon" alt="AWS"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib" alt="Matplotlib"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" alt="Pandas"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly" alt="Plotly"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm" alt="PyCharm"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter" alt="Jupyter-Notebook"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" alt="Postman"/>
+        </td>
+    </tr>
 </table>
 
 <h2>Main projects</h2>
