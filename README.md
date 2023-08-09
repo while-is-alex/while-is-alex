@@ -100,6 +100,12 @@
         <td>
             <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" alt="Postman"/>
         </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobeillustrator" alt="Adobe Illustrator"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop" alt="Adobe Photoshop"/>
+        </td>
 </table>
 
 <h2>Main projects</h2>
