@@ -29,6 +29,15 @@
 <table>
     <tr>
         <td>
+            <img src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=macos" alt="macOS"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" alt="Windows"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" alt="AWS"/>
+        </td>
+        <td>
             <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"/>
         </td>
         <td>
@@ -44,13 +53,18 @@
             <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" alt="Bootstrap"/>
         </td>
         <td>
+            <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt="CSS"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git"/>
         </td>
         <td>
             <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" alt="Windows"/>
         </td>
         <td>
             <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL" alt="PostgreSQL"/>
@@ -58,22 +72,8 @@
         <td>
             <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite" alt="SQLite"/>
         </td>
-    </tr>
-    <tr>
         <td>
             <img src="https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=SQLAlchemy" alt="SQLAlchemy"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon" alt="AWS"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib" alt="Matplotlib"/>
         </td>
         <td>
             <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" alt="Pandas"/>
@@ -81,6 +81,16 @@
         <td>
             <img src="https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly" alt="Plotly"/>
         </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib" alt="Matplotlib"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy" alt="Numpy"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium" alt="Selenium"/>
+        </td>
+    </tr>
         <td>
             <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm" alt="PyCharm"/>
         </td>
@@ -90,7 +100,6 @@
         <td>
             <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" alt="Postman"/>
         </td>
-    </tr>
 </table>
 
 <h2>Main projects</h2>
