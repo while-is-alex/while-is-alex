@@ -110,8 +110,8 @@
 
 <h2>Main projects</h2>
 <ul>
-    <li>Task Manager</li><br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=task-manager"><br><br>
+    <li>Knowverwatch</li><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=knowverwatch"><br><br>
     <li>Flask Blog</li><br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=flask-blog"><br>
 </ul>
