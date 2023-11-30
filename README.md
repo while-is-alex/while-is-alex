@@ -7,22 +7,21 @@
 </p>
 
 <h1 align="center"> Hello there, I'm Alex </h1>
-<h3 align="center"> I'm a former languages teacher (Portuguese, English, French, Spanish and Italian), linguistics bachelor turned into a self-taught Python developer.</h3>
+<h3 align="center"> I'm a full-stack developer fluent in Python, JavaScript and Swift.</h3>
 
 <h2>About me</h2>
 <ul>
-    <li>I'm a dedicated Python developer who enjoys expanding my knowledge and skills in this field every day.</li>
+    <li>I'm a dedicated developer who enjoys expanding my knowledge and putting my skills to the test trying to find solutions to everyday problems.</li>
     <li>I'm actively seeking job opportunities and freelance projects to further advance my expertise and contribute to exciting projects.</li>
-    <li>I'm also passionate about learning new languages and learning about other cultures, which is one of my main interests and ongoing learning journeys.</li>
+    <li>I'm also passionate about learning new languages and learning about other cultures, which is one of my main interests and ongoing learning journeys, as currently I speak 6 languages (Portuguese, English, French, Spanish, Italian and German) and I'm currently learning Japanese.</li>
     <li>As a lifelong learner, I'm always eager to acquire new knowledge and improve myself daily.</li>
-    <li>I have a background in linguistics and literature and enjoy combining my interests in these topics with coding whenever possible.</li>
+    <li>I have a background in linguistics and literature and I enjoy combining my interests in these topics with coding whenever possible, specially in regards to making technology accessible to everyone.</li>
 </ul>
 
 <h2>Currently learning</h2>
 <ul>
     <li>Docker</li>
     <li>Kubernetes</li>
-    <li>AWS</li>
 </ul>
 
 <h2>Languages and tools</h2>
