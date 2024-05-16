@@ -49,10 +49,10 @@
             <img src="https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly" alt="Plotly"/>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" alt="Scikit-Learn"/>
+            <img src="https://img.shields.io/badge/-Scikit Learn-black?style=flat-square&logo=scikitlearn" alt="Scikit-Learn"/>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-Scikit Learn-black?style=flat-square&logo=scikitlearn" alt="TensorFlow"/>
+            <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" alt="TensorFlow"/>
         </td>
         <td>
             <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" alt="PyTorch"/>
