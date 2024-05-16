@@ -7,11 +7,11 @@
 </p>
 
 <h1 align="center"> Hello there, I'm Alex </h1>
-<h3 align="center"> I'm a full-stack developer fluent in Python, JavaScript and Swift.</h3>
+<h3 align="center"> I'm a Data Scientist and Machine Learning Engineer.</h3>
 
 <h2>About me</h2>
 <ul>
-    <li>I'm a dedicated developer who enjoys expanding my knowledge and putting my skills to the test trying to find solutions to everyday problems.</li>
+    <li>I'm a dedicated developer, passionate about data and finding solutions to improve people's lives.</li>
     <li>I'm actively seeking job opportunities and freelance projects to further advance my expertise and contribute to exciting projects.</li>
     <li>I'm also passionate about learning new languages and learning about other cultures, which is one of my main interests and ongoing learning journeys, as currently I speak 6 languages (Portuguese, English, French, Spanish, Italian and German) and I'm currently learning Japanese.</li>
     <li>As a lifelong learner, I'm always eager to acquire new knowledge and improve myself daily.</li>
@@ -20,24 +20,47 @@
 
 <h2>Currently learning</h2>
 <ul>
-    <li>Docker</li>
     <li>Kubernetes</li>
+    <li>R</li>
 </ul>
 
 <h2>Languages and tools</h2>
 <table>
     <tr>
         <td>
-            <img src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=macos" alt="macOS"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" alt="Windows"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" alt="AWS"/>
-        </td>
-        <td>
             <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="Python"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter" alt="Jupyter-Notebook"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Google Colab-black?style=flat-square&logo=googlecolab" alt="Google Colab"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" alt="Pandas"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy" alt="Numpy"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib" alt="Matplotlib"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly" alt="Plotly"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" alt="Scikit-Learn"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Scikit Learn-black?style=flat-square&logo=scikitlearn" alt="TensorFlow"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" alt="PyTorch"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" alt="Postman"/>
         </td>
         <td>
             <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django" alt="Django"/>
@@ -46,10 +69,30 @@
             <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" alt="Flask"/>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-Jinja-black?style=flat-square&logo=Jinja" alt="Jinja"/>
+            <img src="https://img.shields.io/badge/-Celery-black?style=flat-square&logo=celery" alt="Celery"/>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" alt="Bootstrap"/>
+            <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis" alt="Redis"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL" alt="PostgreSQL"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium" alt="Selenium"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" alt="AWS"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript"/>
         </td>
         <td>
             <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
@@ -57,60 +100,56 @@
         <td>
             <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt="CSS"/>
         </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" alt="Bootstrap"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery" alt="jQuery"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-EJS-black?style=flat-square&logo=ejs" alt="EJS"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Node-black?style=flat-square&logo=nodedotjs" alt="Node"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" alt="Express"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vuedotjs" alt="Vue"/>
+        </td>
     </tr>
     <tr>
         <td>
-            <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git"/>
+            <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift" alt="Swift"/>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
+            <img src="https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode" alt="Xcode"/>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL" alt="PostgreSQL"/>
+            <img src="https://img.shields.io/badge/-Realm-black?style=flat-square&logo=realm" alt="Realm"/>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite" alt="SQLite"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=SQLAlchemy" alt="SQLAlchemy"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" alt="Pandas"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly" alt="Plotly"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib" alt="Matplotlib"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy" alt="Numpy"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium" alt="Selenium"/>
-        </td>
-    </tr>
-        <td>
-            <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm" alt="PyCharm"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter" alt="Jupyter-Notebook"/>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" alt="Postman"/>
+            <img src="https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop" alt="Adobe Photoshop"/>
         </td>
         <td>
             <img src="https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobeillustrator" alt="Adobe Illustrator"/>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop" alt="Adobe Photoshop"/>
+            <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git"/>
         </td>
+    </tr>
+        
+    </tr>
 </table>
 
 <h2>Main projects</h2>
 <ul>
-    <li>Knowverwatch</li><br>
+    <li>Knowverwatch - a Full-Stack Project</li><br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=knowverwatch"><br><br>
-    <li>Task Manager</li><br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=task-manager"><br>
+    <li>Heart Disease Prediction - a ML Model</li><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=heart-disease-prediction"><br>
 </ul>
