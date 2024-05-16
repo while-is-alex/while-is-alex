@@ -148,8 +148,10 @@
 
 <h2>Main projects</h2>
 <ul>
-    <li>Knowverwatch - a Full-Stack Project</li><br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=knowverwatch"><br><br>
+    <li>Heart Disease Prediction - a Machine Learning Model created using Scikit-Learn</li><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=heart-disease-prediction"><br>
     <li>Dog Breed Classification - a Deep Learning Model created using TensorFlow</li><br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=dog-breed-classification"><br>
+    <li>Knowverwatch - a Full-Stack Project</li><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=while-is-alex&repo=knowverwatch"><br><br>
 </ul>
