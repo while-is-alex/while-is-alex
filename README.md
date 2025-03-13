@@ -10,13 +10,7 @@
 <h3 align="center"> I'm a Data Scientist and Machine Learning Engineer.</h3>
 
 <h2>About me</h2>
-<ul>
-    <li>I'm a dedicated developer, passionate about data and finding solutions to improve people's lives.</li>
-    <li>I'm actively seeking job opportunities and freelance projects to further advance my expertise and contribute to exciting projects.</li>
-    <li>I'm also passionate about learning new languages and learning about other cultures, which is one of my main interests and ongoing learning journeys, as currently I speak 6 languages (Portuguese, English, French, Spanish, Italian and German) and I'm currently learning Japanese.</li>
-    <li>As a lifelong learner, I'm always eager to acquire new knowledge and improve myself daily.</li>
-    <li>I have a background in linguistics and literature and I enjoy combining my interests in these topics with coding whenever possible, specially in regards to making technology accessible to everyone.</li>
-</ul>
+<p>I am a passionate Data Scientist with a strong foundation in Python, specializing in data engineering, analysis, visualization, and machine learning. I excel at turning complex data into actionable insights using tools such as Pandas, NumPy, Matplotlib, Seaborn, Tableau and PowerBI. I have hands-on experience with machine learning and deep learning frameworks, including Scikit-Learn, TensorFlow, and PyTorch. My ability to communicate effectively and translate data-driven findings into strategic decisions makes me an asset in any data-centric role. I thrive in collaborative environments where data is at the heart of decision-making.</p>
 
 <h2>Currently learning</h2>
 <ul>
